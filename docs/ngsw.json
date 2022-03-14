@@ -1,0 +1,139 @@
+{
+  "configVersion": 1,
+  "timestamp": 1647252087432,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.7938ef1beb9be6f7.js",
+        "/manifest.webmanifest",
+        "/polyfills.1371397fd597e8bd.js",
+        "/runtime.f973b64dcd1fb45c.js",
+        "/styles.ef46db3751d8e999.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/pwa/apple-icon-180.png",
+        "/assets/pwa/apple-splash-1125-2436.jpg",
+        "/assets/pwa/apple-splash-1136-640.jpg",
+        "/assets/pwa/apple-splash-1170-2532.jpg",
+        "/assets/pwa/apple-splash-1242-2208.jpg",
+        "/assets/pwa/apple-splash-1242-2688.jpg",
+        "/assets/pwa/apple-splash-1284-2778.jpg",
+        "/assets/pwa/apple-splash-1334-750.jpg",
+        "/assets/pwa/apple-splash-1536-2048.jpg",
+        "/assets/pwa/apple-splash-1620-2160.jpg",
+        "/assets/pwa/apple-splash-1668-2224.jpg",
+        "/assets/pwa/apple-splash-1668-2388.jpg",
+        "/assets/pwa/apple-splash-1792-828.jpg",
+        "/assets/pwa/apple-splash-2048-1536.jpg",
+        "/assets/pwa/apple-splash-2048-2732.jpg",
+        "/assets/pwa/apple-splash-2160-1620.jpg",
+        "/assets/pwa/apple-splash-2208-1242.jpg",
+        "/assets/pwa/apple-splash-2224-1668.jpg",
+        "/assets/pwa/apple-splash-2388-1668.jpg",
+        "/assets/pwa/apple-splash-2436-1125.jpg",
+        "/assets/pwa/apple-splash-2532-1170.jpg",
+        "/assets/pwa/apple-splash-2688-1242.jpg",
+        "/assets/pwa/apple-splash-2732-2048.jpg",
+        "/assets/pwa/apple-splash-2778-1284.jpg",
+        "/assets/pwa/apple-splash-640-1136.jpg",
+        "/assets/pwa/apple-splash-750-1334.jpg",
+        "/assets/pwa/apple-splash-828-1792.jpg",
+        "/assets/pwa/manifest-icon-192.maskable.png",
+        "/assets/pwa/manifest-icon-512.maskable.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/pwa/apple-icon-180.png": "6849d7de02c7c2336e47e4675b961cf07ee30d08",
+    "/assets/pwa/apple-splash-1125-2436.jpg": "83f68a2652f2f4d7852e862911fd60f5efa4c8fc",
+    "/assets/pwa/apple-splash-1136-640.jpg": "ddfde672a4adc87e0edcdeabda4e673cf733d124",
+    "/assets/pwa/apple-splash-1170-2532.jpg": "779f45690e36c12b98f55f81047f1cc0ce5c5484",
+    "/assets/pwa/apple-splash-1242-2208.jpg": "7504ae99b7cb5f51cd57ab681bf2b21cd6f9af80",
+    "/assets/pwa/apple-splash-1242-2688.jpg": "79acd50d12e2a4527f126a273f2294cd19aca33b",
+    "/assets/pwa/apple-splash-1284-2778.jpg": "1385839b78c0f9666d2a523190586b91f58458a8",
+    "/assets/pwa/apple-splash-1334-750.jpg": "8582dd9ebd1052e9b8fb0216dc1dd8c50358103f",
+    "/assets/pwa/apple-splash-1536-2048.jpg": "f3f682042460b37ebf975bd165fc08ca55db7934",
+    "/assets/pwa/apple-splash-1620-2160.jpg": "d9eec9a4e1302932e167b75cc01edbeb5a09d77f",
+    "/assets/pwa/apple-splash-1668-2224.jpg": "20cdbd2381d860deed11dfe1c8cf547894f27188",
+    "/assets/pwa/apple-splash-1668-2388.jpg": "e9507d0b1d8ba989f29127b3b0c1ce3eba92c4e0",
+    "/assets/pwa/apple-splash-1792-828.jpg": "2d67ce57e2b19ca3963866f4b00ce7a2771cdfa0",
+    "/assets/pwa/apple-splash-2048-1536.jpg": "be55e1f72c5fbb629371bf4fb8a976475fd33bbf",
+    "/assets/pwa/apple-splash-2048-2732.jpg": "bf7a463485d05a0b4ef30850fe75f9773aa56404",
+    "/assets/pwa/apple-splash-2160-1620.jpg": "1f0cbce416363fdd75f30138474d1e322439f105",
+    "/assets/pwa/apple-splash-2208-1242.jpg": "7ecc0a75b403ed9b9607e7634bca70925a48f366",
+    "/assets/pwa/apple-splash-2224-1668.jpg": "8491f27d220444da58718e503e09fd4f3342db1b",
+    "/assets/pwa/apple-splash-2388-1668.jpg": "d4ef37e7053e963ca09c03a4c03c992b8472ae11",
+    "/assets/pwa/apple-splash-2436-1125.jpg": "af7f605c1f57a1ac53638e7f9d5139480fd6358b",
+    "/assets/pwa/apple-splash-2532-1170.jpg": "c0306763fc967327b7fb503fd19077561a08b0be",
+    "/assets/pwa/apple-splash-2688-1242.jpg": "5771e9b36913a03d1fccac49472495d5e30d2d0e",
+    "/assets/pwa/apple-splash-2732-2048.jpg": "54fe32f545aa6579983df58fb56caa659a08a644",
+    "/assets/pwa/apple-splash-2778-1284.jpg": "71f96d27a7396085865f80447b827f51e6183658",
+    "/assets/pwa/apple-splash-640-1136.jpg": "a5727b7022e71f573b876542acffdac59acb26b2",
+    "/assets/pwa/apple-splash-750-1334.jpg": "a5d7140a7514ec2db94476a2a3f7d90206b7c57b",
+    "/assets/pwa/apple-splash-828-1792.jpg": "b659b99baaae52e33a962da3f29f4082a849f3f4",
+    "/assets/pwa/manifest-icon-192.maskable.png": "572377768f84e65fad40fee8b24b1350990c3bd3",
+    "/assets/pwa/manifest-icon-512.maskable.png": "bb095582d410ca1c56263a129286aa5a0881d280",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "edc0a0485b541bf3f9c9b696c2dc7fcb49ce4a8f",
+    "/main.7938ef1beb9be6f7.js": "0dcfeac62778265177c930177f0e8b3692ce985d",
+    "/manifest.webmanifest": "c1e73096e7aaf0019f43b2904590cbc27c259769",
+    "/polyfills.1371397fd597e8bd.js": "e85780ea09d276bd7bb98460d28ec81f8d0b0d7e",
+    "/runtime.f973b64dcd1fb45c.js": "5007e4eb2349faceea6db0c1dd71782f248f668f",
+    "/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
