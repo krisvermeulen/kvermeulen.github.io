@@ -8,11 +8,14 @@ import { environment } from '../environments/environment';
 import {ZXingScannerModule} from '@zxing/ngx-scanner';
 import {ScanComponent} from './scan.component';
 import {GeoComponent} from './geo.component';
+import {MapService} from './map.service';
+import {MapComponent} from './map.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     GeoComponent,
+    MapComponent,
     ScanComponent
   ],
   imports: [
@@ -26,7 +29,9 @@ import {GeoComponent} from './geo.component';
     }),
     ZXingScannerModule
   ],
-  providers: [],
+  providers: [
+    MapService
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

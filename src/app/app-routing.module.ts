@@ -2,6 +2,7 @@ import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import {ScanComponent} from './scan.component';
 import {GeoComponent} from './geo.component';
+import {MapComponent} from './map.component';
 
 const routes: Routes = [
   {
@@ -12,6 +13,10 @@ const routes: Routes = [
   {
     path: 'geo',
     component: GeoComponent
+  },
+  {
+    path: 'map',
+    component: MapComponent
   },
   {
     path: 'scan',
